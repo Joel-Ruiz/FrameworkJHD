@@ -1,0 +1,5 @@
+Dentro de la carpeta figure
+
+Falta agregar Clase Entity
+
+Falta modificar JavaDrawApp y JavaDrawApplet en la carpeta sample
